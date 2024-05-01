@@ -1,6 +1,0 @@
-minimax vs A_zhuchkov : 1 - 0 (Time taken: 8.029)
-
--------------------------------------------
-
-minimax earned: 1
-A_zhuchkov earned: 0
